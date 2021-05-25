@@ -1,4 +1,5 @@
 # Machine_Learning_For_Supply_Chain
+# This was my university Project
 This project is about building a predictive model to estimate lead-time using machine learning. We know in the supply Chain lead-time is important especially to our inventory. In this project, we used the Y variable as a lead-time estimate. We used X1, X2... as a port of origin(country), name of a supplier, ship date, type of items, transport mode and put into a stock date. 
 The first step was to use imputation methods to clean our data
 for feature selection, we used Lasso Method
